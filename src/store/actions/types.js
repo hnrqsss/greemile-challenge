@@ -1,0 +1,9 @@
+export default {
+  // user
+  ASYNC_FETCH_USER: 'ASYNC_FETCH_USER',
+  SET_USER: 'SET_USER',
+  SET_ERROR: 'SET_ERROR',
+  //repos
+  ASYNC_FETCH_REPOS: 'ASYNC_FETCH_REPOS',
+  SET_REPOS: 'SET_REPOS',
+}
